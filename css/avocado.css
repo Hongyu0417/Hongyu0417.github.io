@@ -1,0 +1,43 @@
+h1{color:green;
+	text-align:center;
+	font-style:bold;}
+
+h3{font-family: 'Permanent Marker', cursive;color:green;font-size:40pt; text-align: center}
+
+body{background:#f3ff95;}
+
+p{color:#677836;}
+
+.profile-pic{
+	max-width:100%;}
+
+.main-card{
+	background-color: #f3ff95;
+}
+
+
+.bottom-card{background-color:#f3ff95;}
+
+
+.custom-nav{color:grey;}
+
+.fa-instagram{color:green;}
+
+.nav-link{color:green;}
+
+.fa-cutlery{color:green;}
+
+.fa-envelope{color:green;}
+
+.btn-primary{color:white;background-color:green;border-color:green;}
+
+.custom-background{background-color:#fdffcf;}
+
+h2{font-family: 'Dancing Script', cursive; color:green; font-size: 50pt;}
+
+.custom-progress-bar-green{background-color:green;}
+
+
+label{color:darkgreen;}
+
+a{font-family: 'Amatic SC', cursive;font-size: 35pt}
